@@ -1,0 +1,16 @@
+{
+  "district": [
+    {
+      "district-id": "000",
+      "district-name": "GUJARAT"
+    },
+    {
+      "district-id": "468",
+      "district-name": "Kachchh"
+    },
+    {
+      "district-id": "469",
+      "district-name": "Some Other District"
+    }
+  ]
+}
